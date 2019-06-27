@@ -56,7 +56,6 @@ function Menu() {
         <List
           horizontalAlign="left"
           verticalAlign="bottom"
-          open={open}
           onClick={handleClose}
         >
           <ListItem>👨‍💻 Profile</ListItem>
